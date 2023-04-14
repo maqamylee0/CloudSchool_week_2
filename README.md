@@ -1,4 +1,4 @@
-# CloudSchool_week_3
+# CloudSchool_week_2
 Hosting a static web app on azure
 
 Template obtained from 
